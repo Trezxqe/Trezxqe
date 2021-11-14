@@ -52,9 +52,8 @@
 ## :mag:  Where to find me
 [<img src="https://img.shields.io/badge/WhatsApp-282C34?logo=whatsapp" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://wa.me/89516898272)
 &nbsp;
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://wa.me/89516898272)
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://t.me/trezxqe)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
