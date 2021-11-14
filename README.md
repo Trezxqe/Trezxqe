@@ -60,3 +60,6 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
+## 😻 My cat 😻
+
+![Cat](**https://sun9-9.userapi.com/impg/fTW1gfeRTIvGUsYCwc3C8S6FSO9AOD1ZH3fmeg/vr2OSyw1E-c.jpg?size=2560x1707&quality=96&sign=c16de00b9b41dbc1a64002110928f8c4&type=album**)
