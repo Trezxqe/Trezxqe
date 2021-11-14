@@ -60,7 +60,7 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-## 😻 My pets 😻
+## 😻 My pets 🐶
 
 ![Cat](https://sun9-9.userapi.com/impg/fTW1gfeRTIvGUsYCwc3C8S6FSO9AOD1ZH3fmeg/vr2OSyw1E-c.jpg?size=2560x1707&quality=96&sign=c16de00b9b41dbc1a64002110928f8c4&type=album)
 ![Dog](https://sun9-48.userapi.com/impg/pUVDCDS7jV6qFTTSCrTU9lqIn4S7G4NiwUzMdg/gpFkxpyoJdo.jpg?size=2560x1707&quality=96&sign=62723d95dbeeac2a14e4af5622f1cf82&type=album)
